@@ -7,28 +7,35 @@
 **Pull Request 1**: https://github.com/ChicoState/PantryNode/pull/187 - Worked on this Pull request to solves issues # 184 and # 198 regarding Quagga Camera feature, performed following commits for the same:
 
 **Commit 1 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/28799dc5d099ffafbf3ba913c76826077b56ccca
+
 **Description**: Updated Navigation keys in the paths.tsx file
 
 **Commit 2 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/7e749bf5ee8d093dc63009e77eb3d2835b974cb8 
+
 **Description**: Updated index.tsx to add the loading notification/icon
 
 **Commit 3 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/88840df63ac31e8f8a010900b829b89ec98f19cf 
+
 **Description**: Updated file Header.tsx to add scanner icon to the camera button and align its position
 
 **Pull request 2**: https://github.com/ChicoState/PantryNode/pull/122 - **created this pull request to update the readme.md file** on which I was working on in previous sprints, since I finally found insights from respective teams, successfully performed below commit:
 
 **Commit 4 (Production code)**: https://github.com/ChicoState/PantryNode/pull/122/commits/5037e088baa8535d6c7ff7958c5eb7ec6bfc9885 
+
 **Description**: After discussing with the teams, Updated README.md file with latest technology stack.
 
 **Issue 2**: https://github.com/ChicoState/PantryNode/pull/191 - Assigned on this issue for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
 
 **Commit 5 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/3e3a419a97d4074207cd4195b73e396ea820d831
+
 **Description**: Updated sale.js for json response
 
 **Commit 6 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/a31157e88156840552b58369077d67a54f931511 
+
 **Description**: Updated users.js for new user sign up and user already exists
 
 **Commit 7 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/d4bb17c509d8c069cb05af94eebe3801363be43b 
+
 **Description**: Updated users.js file to appropriate json response
 
 **Code Review**: https://github.com/ChicoState/PantryNode/pull/117 - Reviewed this Pull request, after discussing with the assignee during the daily scrum meeting, approved these changes.
@@ -91,12 +98,15 @@ Also continued learning Tailwind css on YouTube, in particularly learnt about ic
 **Issue 8**: https://github.com/ChicoState/PantryNode/pull/191 - Assigned on this issue for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
 
 **Commit 2 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/3e3a419a97d4074207cd4195b73e396ea820d831
+
 **Description**: Updated sale.js for json response
 
 **Commit 3 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/a31157e88156840552b58369077d67a54f931511 
+
 **Description**: Updated users.js for new user sign up and user already exists
 
 **Commit 4 (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/d4bb17c509d8c069cb05af94eebe3801363be43b 
+
 **Description**: Updated users.js file to appropriate json response
 
 **Code Review and Testing**: https://github.com/ChicoState/PantryNode/pull/180 : Reviewed the code changes for this pull request, approved the changes only after testing these changes, pasted the screenshot for reference in the Pull Request.
@@ -110,12 +120,15 @@ Worked on multiple issues in this sprint also, below are the issues I worked on:
 **Pull Request**: https://github.com/ChicoState/PantryNode/pull/187 - Worked on this Pull request to solves issues # 184 and # 198 regarding Quagga Camera feature, performed following commits for the same:
 
 **Commit 5 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/28799dc5d099ffafbf3ba913c76826077b56ccca 
+
 **Description**: Updated Navigation keys in the paths.tsx file
 
 **Commit 6 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/7e749bf5ee8d093dc63009e77eb3d2835b974cb8 
+
 **Description**: Updated index.tsx to add the loading notification/icon
 
 **Commit 7 (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/88840df63ac31e8f8a010900b829b89ec98f19cf 
+
 **Description**: Updated file Header.tsx to add scanner icon to the camera button and align its position
 
 **Issue 10 (Parallel programming and code review)**: https://github.com/ChicoState/PantryNode/pull/224 - Helped in programming for Expiry Page, in particular to the sort functionality feature.
