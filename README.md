@@ -46,13 +46,13 @@
 
 ## Timeline
 
-### Sprint 1 (February 28 - March 20) (including Spring Break): 
+## Sprint 1 (February 28 - March 20) (including Spring Break): 
 
 **Issue 1** : https://github.com/ChicoState/PantryNode/issues/24 - **Assigned myself** on this issue, had discussions about this issue with the assignees on everyday scrum meetings, it was decided that to replace Bootstrap with Tailwind CSS and not to include any Chico State branding or references while migrating to React. Hence, the issue was closed by the end of the sprint. 
 
 Also, as per discussions started learning Tailwind CSS on YouTube : https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw. In particular started to learn about Margin, Padding & Borders during the Spring break.
 
-### Sprint 2 (March 21 - April 3):
+## Sprint 2 (March 21 - April 3):
 
 After having discussions with FrontEnd and BackEnd teams during everyday scrum meetings, made sure that an issue was created regarding documentation for updating the readme.md file regarding to documentation.
 
@@ -62,7 +62,7 @@ In this Sprint, **my role was to coordinate with both frontend and backend teams
 
 Also, continued learning Tailwind CSS on YouTube, but this time in particular to topics such as flex box, grids and buttons.
 
-### Sprint 3 (April 4 - 17):
+## Sprint 3 (April 4 - 17):
 
 Throughout the sprint, **worked on multiple issues and created a Pull request too**; during scrum meetings, was actively involved in discussions regarding below issues with respective assignees, gave my insights on the same. 
 
@@ -84,7 +84,7 @@ Also, since I was new to test this kind of issue, started to learn how to test t
 
 **Issue 3**: https://github.com/ChicoState/PantryNode/issues/130 - Assigned myself on this **issue to replace the res.render() form to res.json()** as current format is returning HTML files, to bypass the authentication for easier testing purposes, this issue has been created.
 
-### Sprint 4 (April 18 - May 1):
+## Sprint 4 (April 18 - May 1):
 
 Worked on multiple issues throughout this sprint, gave my insights on various issues during everyday scrum meetings. 
 
@@ -112,7 +112,7 @@ Also continued learning Tailwind css on YouTube, in particularly learnt about ic
 
 **Code Review and Testing 1**: https://github.com/ChicoState/PantryNode/pull/180 : Reviewed the code changes for this pull request, approved the changes only after testing these changes, pasted the screenshot for reference in the Pull Request.
 
-### Sprint 5 (May 2 - 15):
+## Sprint 5 (May 2 - 15):
 
 Worked on multiple issues in this sprint also, below are the issues I worked on:
 
