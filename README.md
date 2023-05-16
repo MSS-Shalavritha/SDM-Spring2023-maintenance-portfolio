@@ -46,10 +46,9 @@
 
 # Timeline
 
-# Sprint 1 (February 28 - March 20)
-(including Spring Break)** : 
+# Sprint 1 (February 28 - March 20) (including Spring Break): 
 
-**Issue** : https://github.com/ChicoState/PantryNode/issues/24 - I **assigned myself** on this issue, had discussions about this issue with the assignees on everyday scrum meetings, it was decided that to replace Bootstrap with Tailwind CSS and not to include any Chico State branding or references while migrating to React. Hence, the issue was closed by the end of the sprint. 
+**Issue 1** : https://github.com/ChicoState/PantryNode/issues/24 - **Assigned myself** on this issue, had discussions about this issue with the assignees on everyday scrum meetings, it was decided that to replace Bootstrap with Tailwind CSS and not to include any Chico State branding or references while migrating to React. Hence, the issue was closed by the end of the sprint. 
 
 Also, as per discussions started learning Tailwind CSS on YouTube : https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw. In particular started to learn about Margin, Padding & Borders during the Spring break.
 
@@ -57,7 +56,7 @@ Also, as per discussions started learning Tailwind CSS on YouTube : https://www.
 
 After having discussions with FrontEnd and BackEnd teams during everyday scrum meetings, made sure that an issue was created regarding documentation for updating the readme.md file regarding to documentation.
 
-**Issue** - **Made sure that this Issue was created by frontend team**: https://github.com/ChicoState/PantryNode/issues/67
+**Issue 1** - **Made sure that this Issue was created by frontend team**: https://github.com/ChicoState/PantryNode/issues/67
 
 In this Sprint, **my role was to coordinate with both frontend and backend teams** to get a knowledge of what technology stacks these teams are using.
 
@@ -75,21 +74,21 @@ Throughout the sprint, **worked on multiple issues and created a Pull request to
 
 **Description**: After discussing with the teams, Updated README.md file with latest technology stack.
 
-**Issue**: https://github.com/ChicoState/PantryNode/issues/143 - assigned on this frontend issue regarding creating UI for the Expiry page. As this was my first experience with React JS, started learning about React JS on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d, in particular started to learn about Styles, Components & Templates.
+**Issue 1**: https://github.com/ChicoState/PantryNode/issues/143 - assigned on this frontend issue regarding creating UI for the Expiry page. As this was my first experience with React JS, started learning about React JS on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d, in particular started to learn about Styles, Components & Templates.
 
-**Issue**: https://github.com/ChicoState/PantryNode/issues/114 - self assigned on this issue, started discussing about this issue with the assignees and gave my insights. I picked up this issue as part of **testing**.
+**Issue 2**: https://github.com/ChicoState/PantryNode/issues/114 - self assigned on this issue, started discussing about this issue with the assignees and gave my insights. I picked up this issue as part of **testing**.
 
 Also, since I was new to test this kind of issue, started to learn how to test these kind of issues on YouTube: https://www.youtube.com/watch?v=cuEtnrL9-H0
 
 **Code review**: https://github.com/ChicoState/PantryNode/pull/153 - Tested on my local and **discussed about slashes issue in the scrum meeting**, but haven’t worked on GitHub.
 
-**Issue**: https://github.com/ChicoState/PantryNode/issues/130 - Assigned myself on this **issue to replace the res.render() form to res.json()** as current format is returning HTML files, to bypass the authentication for easier testing purposes, this issue has been created.
+**Issue 3**: https://github.com/ChicoState/PantryNode/issues/130 - Assigned myself on this **issue to replace the res.render() form to res.json()** as current format is returning HTML files, to bypass the authentication for easier testing purposes, this issue has been created.
 
 # Sprint 4 (April 18 - May 1):
 
 Worked on multiple issues throughout this sprint, gave my insights on various issues during everyday scrum meetings. 
 
-**Issue**: https://github.com/ChicoState/PantryNode/issues/184#event-9094522194 - Assigned myself to this issue to create Front end UI for the **Quagga Camera to scan the bar codes**.
+**Issue 1**: https://github.com/ChicoState/PantryNode/issues/184#event-9094522194 - Assigned myself to this issue to create Front end UI for the **Quagga Camera to scan the bar codes**.
 
 Continued learning React JS on YouTube, in particularly learnt click events : https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d 
 
@@ -97,7 +96,7 @@ Also continued learning Tailwind css on YouTube, in particularly learnt about ic
 
 **Pull Request**: https://github.com/ChicoState/PantryNode/pull/224 - Assigned myself on this Pull request, initially worked on this pull request as a **parallel programmer** , in particular to **sorting data and category filter**.
 
-**Issue**: https://github.com/ChicoState/PantryNode/pull/191 - Assigned on this issue for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
+**Issue 2**: https://github.com/ChicoState/PantryNode/pull/191 - Assigned on this issue for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
 
 **Commit (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/3e3a419a97d4074207cd4195b73e396ea820d831
 
