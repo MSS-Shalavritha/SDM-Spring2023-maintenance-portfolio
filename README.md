@@ -71,7 +71,9 @@ Throughout the sprint, **worked on multiple issues and created a Pull request to
 
 **Pull request 1**: https://github.com/ChicoState/PantryNode/pull/122 - created this pull request to update the readme.md file on which I was working on in previous sprints, since I finally found insights from respective teams, successfully performed below commit:
 
-**Commit 1(Production code)**: https://github.com/ChicoState/PantryNode/pull/122/commits/5037e088baa8535d6c7ff7958c5eb7ec6bfc9885 
+**Commit 1(Production code)**: https://github.com/ChicoState/PantryNode/pull/122/commits/5037e088baa8535d6c7ff7958c5eb7ec6bfc9885
+
+**Description**: After discussing with the teams, Updated README.md file with latest technology stack.
 
 **Issue 3**: https://github.com/ChicoState/PantryNode/issues/143 - assigned on this frontend issue regarding creating UI for the Expiry page. As this was my first experience with React JS, started learning about React JS on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d, in particular started to learn about Styles, Components & Templates.
 
