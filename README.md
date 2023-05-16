@@ -66,9 +66,9 @@ Also, continued learning Tailwind CSS on YouTube, but this time in particular to
 
 Throughout the sprint, **worked on multiple issues and created a Pull request too**; during scrum meetings, was actively involved in discussions regarding below issues with respective assignees, gave my insights on the same. 
 
-**Code Review**: https://github.com/ChicoState/PantryNode/pull/117 - Reviewed this Pull request, after discussing with the assignee during the daily scrum meeting, approved these changes.
+**Code Review 1**: https://github.com/ChicoState/PantryNode/pull/117 - Reviewed this Pull request, after discussing with the assignee during the daily scrum meeting, approved these changes.
 
-**Pull request**: https://github.com/ChicoState/PantryNode/pull/122 - created this pull request to update the readme.md file on which I was working on in previous sprints, since I finally found insights from respective teams, successfully performed below commit:
+**Pull request 1**: https://github.com/ChicoState/PantryNode/pull/122 - created this pull request to update the readme.md file on which I was working on in previous sprints, since I finally found insights from respective teams, successfully performed below commit:
 
 **Commit 1(Production code)**: https://github.com/ChicoState/PantryNode/pull/122/commits/5037e088baa8535d6c7ff7958c5eb7ec6bfc9885
 
@@ -76,11 +76,11 @@ Throughout the sprint, **worked on multiple issues and created a Pull request to
 
 **Issue 1**: https://github.com/ChicoState/PantryNode/issues/143 - assigned on this frontend issue regarding creating UI for the Expiry page. As this was my first experience with React JS, started learning about React JS on YouTube: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d, in particular started to learn about Styles, Components & Templates.
 
-**Issue 2**: https://github.com/ChicoState/PantryNode/issues/114 - self assigned on this issue, started discussing about this issue with the assignees and gave my insights. I picked up this issue as part of **testing**.
+**Issue 2**: https://github.com/ChicoState/PantryNode/issues/114 - self assigned to this issue, started discussing about this issue with the assignees and gave my insights. I picked up this issue as part of **testing**.
 
 Also, since I was new to test this kind of issue, started to learn how to test these kind of issues on YouTube: https://www.youtube.com/watch?v=cuEtnrL9-H0
 
-**Code review**: https://github.com/ChicoState/PantryNode/pull/153 - Tested on my local and **discussed about slashes issue in the scrum meeting**, but haven’t worked on GitHub.
+**Code review 2**: https://github.com/ChicoState/PantryNode/pull/153 - Tested on my local and **discussed about slashes issue in the scrum meeting**, but haven’t worked on GitHub.
 
 **Issue 3**: https://github.com/ChicoState/PantryNode/issues/130 - Assigned myself on this **issue to replace the res.render() form to res.json()** as current format is returning HTML files, to bypass the authentication for easier testing purposes, this issue has been created.
 
@@ -94,9 +94,9 @@ Continued learning React JS on YouTube, in particularly learnt click events : ht
 
 Also continued learning Tailwind css on YouTube, in particularly learnt about icons : https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw 
 
-**Pull Request**: https://github.com/ChicoState/PantryNode/pull/224 - Assigned myself on this Pull request, initially worked on this pull request as a **parallel programmer** , in particular to **sorting data and category filter**.
+**Pull Request 1**: https://github.com/ChicoState/PantryNode/pull/224 - Worked on this Pull request, initially worked on this pull request as a **parallel programmer** , in particular to **sorting data and category filter**.
 
-**Issue 2**: https://github.com/ChicoState/PantryNode/pull/191 - Assigned on this issue for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
+**Pull Request 2**: https://github.com/ChicoState/PantryNode/pull/191 - Worked on this Pull request for **replacing the rendering view template in backend with the JSON response** - Performed below commits for this issue:
 
 **Commit (Developer Operations)**: https://github.com/ChicoState/PantryNode/pull/191/commits/3e3a419a97d4074207cd4195b73e396ea820d831
 
@@ -110,7 +110,7 @@ Also continued learning Tailwind css on YouTube, in particularly learnt about ic
 
 **Description**: Updated users.js file to appropriate json response
 
-**Code Review and Testing**: https://github.com/ChicoState/PantryNode/pull/180 : Reviewed the code changes for this pull request, approved the changes only after testing these changes, pasted the screenshot for reference in the Pull Request.
+**Code Review and Testing 1**: https://github.com/ChicoState/PantryNode/pull/180 : Reviewed the code changes for this pull request, approved the changes only after testing these changes, pasted the screenshot for reference in the Pull Request.
 
 # Sprint 5 (May 2 - 15):
 
@@ -118,7 +118,7 @@ Worked on multiple issues in this sprint also, below are the issues I worked on:
 
 **Created this Issue**: https://github.com/ChicoState/PantryNode/issues/198 - to improve the **Quagga camera features**, performed below commits with respect to this issue:
 
-**Pull Request**: https://github.com/ChicoState/PantryNode/pull/187 - Worked on this Pull request to solves issues # 184 and # 198 regarding Quagga Camera feature, performed following commits for the same:
+**Pull Request 1**: https://github.com/ChicoState/PantryNode/pull/187 - Worked on this Pull request to solve issues # 184 and # 198 regarding Quagga Camera feature, performed following commits for the same:
 
 **Commit (Production code)**: https://github.com/ChicoState/PantryNode/pull/187/commits/28799dc5d099ffafbf3ba913c76826077b56ccca 
 
